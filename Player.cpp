@@ -103,6 +103,7 @@ void Player::makeMove() {
         }
     }
 
+
     breakHistory.emplace_back(0, 0, 0);
     switch (maxIndex) {
         case 0:

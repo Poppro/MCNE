@@ -12,7 +12,7 @@ Block::Block(int id) {
         blockValues[2] = 1; // grass
         blockValues[3] = 1; // dirt
         blockValues[1] = 2; // stone
-        blockValues[17] = 5; // wood
+        blockValues[17] = 7; // wood
         blockValues[16] = 100; //coal
         blockValues[15] = 500; // iron
         blockValues[14] = 1000; // gold
